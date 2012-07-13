@@ -1,10 +1,9 @@
 # -*- encoding: utf-8 -*-
-require File.join(File.dirname(__FILE__), 'lib/cash/version')
 
 
 Gem::Specification.new do |s|
   s.name = %q{activerecord-import}
-  s.version = Cash::VERSION
+  s.version = "0.2.9"
 
   s.required_rubygems_version = '1.3.7'
   s.authors = ["Zach Dennis"]
